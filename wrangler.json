@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "discord-oauth-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d6d6d786-971e-4bfe-a740-70a2df2812bb",
+      "database_name": "oauth"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
